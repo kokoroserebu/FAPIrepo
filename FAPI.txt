@@ -1,5 +1,11 @@
 test
 
+<<<<<<< HEAD
 sub
 
 1:15
+=======
+sub branch
+
+fin
+>>>>>>> master
